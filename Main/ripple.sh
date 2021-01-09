@@ -87,7 +87,7 @@ pip3 install --upgrade pip
 pip3 install flask
 apt-get install php7.4 php7.4-mbstring php7.4-fpm php7.4-curl php7.4-mysql golang-go -y
 apt-get install composer -y
-apt-get install zip unzip php7.0-zip -y
+apt-get install zip unzip php7.4-zip -y
 
 echo "Done installing dependencies!"
 mkdir ripple
@@ -153,7 +153,7 @@ echo "REDIS Server setup is done!"
 echo "Downloading nginx config..."
 mkdir nginx
 cd nginx
-systemctl restart php7.0-fpm
+systemctl restart php7.4-fpm
 pkill -f nginx
 cd /etc/nginx/
 rm -rf nginx.conf
@@ -176,9 +176,10 @@ echo "NGINX server setup is done!"
 
 echo "Setting up database..."
 # Download SQL folder
-wget -O ripple.sql https://raw.githubusercontent.com/Uniminin/Ripple-Auto-Installer/master/Database%20files/ripple_database.sql
+wget -O ripple.sql https://raw.githubusercontent.com/divinity1437/Ripple-Auto-Installer/master/Database%20files/Xripple_database.sql
 mysql -u "$mysql_usr" -p"$mysql_psw" -e 'CREATE DATABASE ripple;'
 mysql -u "$mysql_usr" -p"$mysql_psw" ripple < ripple.sql
+echo "Some tables in DB may have bad structure or not even exist, fix it urself or PM me in discord"
 echo "Database setup is done!"
 
 echo "Setting up hanayo..."
@@ -226,6 +227,7 @@ wget -O 999.png https://github.com/Uniminin/Ripple-Auto-Installer/blob/master/X/
 cd $MasterDir
 echo "Avatar Server setup is done!"
 
+# Bad idea use that old-frontend
 echo "Setting up backend..."
 cd /var/www/
 git clone https://zxq.co/ripple/old-frontend.git
