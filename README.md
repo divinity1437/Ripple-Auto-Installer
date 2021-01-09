@@ -20,7 +20,7 @@ Also Please Do Note that when you're using this script, if you get any errors yo
 
 # Requirements
 * Any VPS with Ubuntu OS is strongly recommended
-* Ubuntu 16.04 
+* Ubuntu 16.04 or higher
 
 # Features
 * A configurable shell script for installing most of the things for your clone Ripple server
@@ -37,7 +37,7 @@ Also Please Do Note that when you're using this script, if you get any errors yo
 First of all you need to download it by either by downloading it from GitHub, or running this command to download: 
 
 ```bash
-wget https://raw.githubusercontent.com/Uniminin/Ripple-Auto-Installer/master/Main/ripple.sh
+wget https://raw.githubusercontent.com/divinity1437/Ripple-Auto-Installer/master/Main/ripple.sh
 ```
 
 ### Step 2:
@@ -51,7 +51,7 @@ chmod +x installer.sh && ./installer.sh
 You `don't have to be root` then, although `it is recommended`.
 
 ### Step 3: Follow These Steps To Start The Server!
-<img src="https://github.com/Uniminin/Ripple-Auto-Installer/blob/master/X/start.png"/>
+<img src="https://raw.githubusercontent.com/divinity1437/Ripple-Auto-Installer/master/X/start.png"/>
 
 
 Make sure you set your DNS like this:
@@ -70,7 +70,7 @@ Copy-Paste the following commands in the terminal to remove all dependencies ins
 ### Step 1:
 
 ```bash
-wget https://raw.githubusercontent.com/Uniminin/Ripple-Auto-Installer/master/Extras/uninstaller.sh
+wget https://raw.githubusercontent.com/divinity1437/Ripple-Auto-Installer/master/Extras/uninstaller.sh
 ```
 
 ### Step 2:
@@ -101,6 +101,7 @@ Note: Although I strongly Recommend, in order to remove your server completely p
 You can ask for any kinds of help regarding this project via Discord DMs or through Github Issues.<br>
 <br>
 @uniminin#1151 - Uniminin
+@OwOuser#9373 - OwOuser
 
 # Credits [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://github.com/Uniminin/)
 * <a href=https://github.com/Uniminin>Uniminin</a> - Main Script Successor. (Script Re-Birth;Soon)
