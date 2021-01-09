@@ -1,5 +1,5 @@
 # 
-# NOTE: THESE SCRIPTS ARE OUTDATED AND PRETTY MUCH BROKEN! ALSO OUTDATED DEPENDENCIES WHICH MAKES THE STACK TO NOT WORK PROPERLY!!! <a href="//www.dmca.com/Protection/Status.X" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_16_120.png?ID=e27dca2b-597b-4718-b582-372dd24ab1b5"  alt="DMCA.com Protection Status" /></a>
+# NOTE: This script need to be update, so i decide to do that!!! <a href="//www.dmca.com/Protection/Status.X" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_16_120.png?ID=e27dca2b-597b-4718-b582-372dd24ab1b5"  alt="DMCA.com Protection Status" /></a>
 Me, <a href=https://github.com/Kreyren>Krey</a> and with the help of some of our other friends are working to fix Ripple code and create a new efficient Auto Ripple Stack Installer Script! It might take a while but we will complete it within this year. Not now but surely!
 
 
