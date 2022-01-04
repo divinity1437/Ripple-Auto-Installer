@@ -1,5 +1,5 @@
 # 
-# NOTE: This script need to be update, so i decide to do that!!! <a href="//www.dmca.com/Protection/Status.X" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_16_120.png?ID=e27dca2b-597b-4718-b582-372dd24ab1b5"  alt="DMCA.com Protection Status" /></a>
+# NOTE: This script outdated. Dont use it anymore. <a href="//www.dmca.com/Protection/Status.X" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_16_120.png?ID=e27dca2b-597b-4718-b582-372dd24ab1b5"  alt="DMCA.com Protection Status" /></a>
 Me, <a href=https://github.com/Kreyren>Krey</a> and with the help of some of our other friends are working to fix Ripple code and create a new efficient Auto Ripple Stack Installer Script! It might take a while but we will complete it within this year. Not now but surely!
 
 
@@ -90,18 +90,18 @@ Note: Although I strongly Recommend, in order to remove your server completely p
 
 | NO | Status| Platform|
 |----|-------|---------|
-|1|[![](https://github.com/Uniminin/Ripple-Auto-Installer/blob/master/X/pass.svg)](https://github.com/uniminin)| Ubuntu
-|2|[![](https://github.com/Uniminin/Ripple-Auto-Installer/blob/master/X/pass.svg)](https://github.com/uniminin)| Pop!OS
-|3|[![](https://github.com/Uniminin/Ripple-Auto-Installer/blob/master/X/pass.svg)](https://github.com/uniminin)| Kubuntu
-|4|[![](https://github.com/Uniminin/Ripple-Auto-Installer/blob/master/X/fail.svg)](https://github.com/uniminin)| Kali Linux
-|5|[![](https://github.com/Uniminin/Ripple-Auto-Installer/blob/master/X/fail.svg)](https://github.com/uniminin)| Mint 19
-|6|[![](https://github.com/Uniminin/Ripple-Auto-Installer/blob/master/X/fail.svg)](https://github.com/uniminin)| OpenSuse
+|1|[![](https://github.com/divinity1437/Ripple-Auto-Installer/blob/master/X/pass.svg)](https://github.com/divinity1437)| Ubuntu
+|2|[![](https://github.com/divinity1437/Ripple-Auto-Installer/blob/master/X/pass.svg)](https://github.com/divinity1437)| Pop!OS
+|3|[![](https://github.com/divinity1437/Ripple-Auto-Installer/blob/master/X/pass.svg)](https://github.com/divinity1437)| Kubuntu
+|4|[![](https://github.com/divinity1437/Ripple-Auto-Installer/blob/master/X/fail.svg)](https://github.com/divinity1437)| Kali Linux
+|5|[![](https://github.com/divinity1437/Ripple-Auto-Installer/blob/master/X/fail.svg)](https://github.com/divinity1437)| Mint 19
+|6|[![](https://github.com/divinity1437/Ripple-Auto-Installer/blob/master/X/fail.svg)](https://github.com/divinity1437)| OpenSuse
 
 # Need Help?
 You can ask for any kinds of help regarding this project via Discord DMs or through Github Issues.<br>
 <br>
 @uniminin#1151 - Uniminin
-@OwOuser#9373 - OwOuser
+@OwOuser#9860 - OwOuser
 
 # Credits [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://github.com/Uniminin/)
 * <a href=https://github.com/Uniminin>Uniminin</a> - Main Script Successor. (Script Re-Birth;Soon)
